@@ -1,0 +1,128 @@
+.img-cl{
+    position: relative;
+    left: 1050px;
+    top: 100px;
+}
+.bt-cl{
+    display: inline;
+    position: relative;
+    left: 200px;
+    border: 1px none;
+    color: rgb(60, 34, 121);
+    font-size: 2vh;
+    margin: 45px;
+}
+.bt-cl:hover{
+    color:  rgb(22, 34, 255);
+    transition: 0.5s;
+}
+.get-bt{
+    position: relative;
+    left: 1430px;
+    border: 10px solid rgb(2, 15, 254);
+    background-color:  rgb(2, 15, 254);
+    border-radius: 10%;
+}
+.h1-fs{
+    display: inline;
+    position: relative;
+    left: 160px;
+    color: rgb(60, 34, 121);
+}
+.h1-we{
+    position: relative;
+    bottom: 200px;
+    left: 100px;
+    width: 500px;
+    color: rgb(60, 34, 121);
+}
+.p-we{
+    position: relative;
+    bottom: 235px;
+    left: 100px;
+    width: 600px;
+    font-size: 20px;
+}
+.bt-neon{
+    display: inline-block;
+    font-size: 25px;
+    text-decoration: none;
+    border: solid 10px rgb(2, 15, 254);
+    color: white;
+    background-color: rgb(2, 15, 254);
+    position: relative;
+    bottom: 220px;
+    left: 100px;
+    padding: 5px 10px;
+}
+.bt-neon:hover{
+    color: rgb(2, 15, 254) ;
+    background: white;
+    box-shadow: 0 0 10px rgb(2, 15, 254), 0 0 10px rgb(2, 15, 254), 0 0 10px rgb(2, 15, 254);
+}
+.h2-ex{
+    position: relative;
+    left: 900px;
+    bottom: 500px;
+    width: 600px;
+    color: rgb(60, 34, 121);
+}
+.h4-qu{
+    position: relative;
+    left: 900px;
+    bottom: 450px;
+    width: 600px;
+}
+.bt-neon2{
+    display: inline-block;
+    font-size: 25px;
+    text-decoration: none;
+    border: solid 10px rgb(2, 15, 254);
+    color: white;
+    background-color: rgb(2, 15, 254);
+    position: relative;
+    bottom: 420px;
+    left: 1100px;
+    padding: 5px 10px;   
+}
+.bt-neon2:hover{
+    color: rgb(2, 15, 254) ;
+    background: white;
+    box-shadow: 0 0 10px rgb(2, 15, 254), 0 0 10px rgb(2, 15, 254), 0 0 10px rgb(2, 15, 254);
+}
+.h1-od{
+    text-align: center;
+    position: relative;
+    bottom: 150px;
+}
+.img-cl3{
+    position: relative;
+    bottom: 100px;
+    display: inline-block;
+    margin: 45px;
+}
+.par-img{
+    text-align: center;
+    width: 300px; 
+    position: relative;
+    bottom: 290px;
+    margin: 100px;
+}
+.par-img2{
+    text-align: center;
+    width: 300px; 
+    position: relative;
+    bottom: 930px;
+    margin: 600px;
+}
+.par-img3{
+    text-align: center;
+    width: 300px; 
+    position: relative;
+    bottom: 2060px;
+    margin: 1100px;
+}
+.img-cl3:hover{
+    height: 400px;
+    transition: 0.8s;
+}
